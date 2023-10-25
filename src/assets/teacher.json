@@ -1,0 +1,46 @@
+{
+    "name": "林茂廷",
+    "specialty": "應用程式設計，數量方法，總體經濟，實證總體",
+    "course": {
+        "Mon": [
+            {
+                "name": null,
+                "time": null,
+                "classroom":null
+            }
+        ],
+        "Tue": [
+            {
+                "name": "經濟模型程式設計專題",
+                "time": "6~8",
+                "classroom":null
+            }
+        ],
+        "Wen": [
+            {
+                "name": "資料科學程式設計(一)",
+                "time": "5~6",
+                "classroom":"資B1F-06"
+            },
+            {
+                "name": "經濟應用程式開發(一)",
+                "time": "7~9",
+                "classroom":null
+            }
+        ],
+        "Thu": [
+            {
+                "name": null,
+                "time": null,
+                "classroom":null
+            }
+        ],
+        "Fri": [
+            {
+                "name": null,
+                "time": null,
+                "classroom":null
+            }
+        ]
+    }
+}
